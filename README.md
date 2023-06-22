@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vadim 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" margin="50">"Web Developer" student from Russia 🇷🇺</h3>
+<h3 align="center" padding="50">"Web Developer" student from Russia 🇷🇺</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
