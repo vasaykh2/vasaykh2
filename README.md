@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
 
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **vasaykh2/vasaykh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
