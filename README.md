@@ -14,7 +14,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?vasaykh2=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vasaykh2&theme=dark)](https://git.io/streak-stats)
 
 
 
