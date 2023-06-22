@@ -24,6 +24,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasaykh2)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=vasaykh2)
+
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?vasaykh2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
