@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vadim 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" padding="50">"Web Developer" student from Russia 🇷🇺</h3>
+<h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasaykh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasaykh2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
