@@ -16,11 +16,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vasaykh2)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![codewars](https://www.codewars.com/users/vasaykh/badges/micro)](https://www.codewars.com/users/vasaykh)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=vasaykh2&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasaykh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/vasaykh/badges/micro)](https://www.codewars.com/users/vasaykh)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasaykh2)](https://github.com/anuraghazra/github-readme-stats)
 
