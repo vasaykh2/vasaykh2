@@ -26,7 +26,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vasaykh2)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasaykh2&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasaykh2&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?vasaykh2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
