@@ -37,6 +37,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasaykh2&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vasaykh2&theme=solarized_dark)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?vasaykh2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
