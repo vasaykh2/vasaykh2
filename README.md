@@ -3,7 +3,7 @@
 <h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
 <h5 align="center"><a>vasaykh@yandex.ru</a>  |  tg: @Vadim_An_S</h4>
 <h3></h3>
-<a>vasaykh@yandex.ru</a>
+<vasaykh@yandex.ru>
 
 [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
 
