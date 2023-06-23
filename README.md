@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Vadim 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
-<p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, I want to improve or participate in the creation of new digital projects in areas that unite both sides of interests.
+<p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, I want to improve or participate in the creation of new digital projects in areas that unite both sides of interests.</p>
+<p>
 I participate in a city humanitarian seminar, there is a small dog and a large aquarium with fish and plants, I like to play chess (not with them yet).</p>
  
 <vasaykh@yandex.ru> |   [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
