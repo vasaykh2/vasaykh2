@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vadim 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
-<https://yandex.com>
+<https://yandex.com/>
 <vasaykh@yandex.com>
 
 [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
