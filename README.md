@@ -2,9 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">"Web Developer" student from Russia 🇷🇺</h3>
  
-<vasaykh@yandex.ru> 
-
-[@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
+<vasaykh@yandex.ru> |   [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
