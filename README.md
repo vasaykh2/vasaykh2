@@ -4,7 +4,7 @@
 <h5 align="center"><a>vasaykh@yandex.ru</a>  |  tg: @Vadim_An_S</h4>
 <h3></h3>
 <a>vasaykh@yandex.ru</a>
-[vasaykh@yandex.ru](vasaykh@yandex.ru)
+* [vasaykh@yandex.ru](vasaykh@yandex.ru)  |   [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
