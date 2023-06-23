@@ -28,19 +28,19 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasaykh2&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Карточка профиля: 
+<!--Карточка профиля:--> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasaykh2&theme=solarized_dark)
 
-Статистика языков в коммитах:
+<!--Статистика языков в коммитах:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vasaykh2&theme=solarized_dark)
 
-Статистика языков в репозиториях:
+<!--Статистика языков в репозиториях:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasaykh2&theme=solarized_dark)
 
-Статистика профиля:
+<!--Статистика профиля:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasaykh2&theme=solarized_dark)
 
-Данные по коммитам за сутки:
+<!--Данные по коммитам за сутки:-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vasaykh2&theme=solarized_dark)
 
 <!--
