@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vadim  
- <img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)" height="32"/></h1>
+ <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/></h1>
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">"Web Developer" student from Russia </h3>
 <p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can improve or participate in the creation of new digital projects in areas that unite both sides.</p>
