@@ -1,7 +1,6 @@
-<div align="center" >
+
  <h1 align="left"><span>Hi there, I'm Vadim</span> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxenFpcG4xdWYweGNwdjQwd211cGRnMnViZWUycDV3cHRma2FscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" /></h1>
- 
-</div>
+
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/></h1>-->
 <h3 align="center">"Web Developer" student from Russia </h3>
 <p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can improve or participate in the creation of new digital projects in areas that unite both sides.</p>
