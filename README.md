@@ -1,5 +1,5 @@
  <h1 align="left" >Hi there, I'm Vadim 
-  <img align="right"  height="43" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" />
+  <img align="right"  height="43" src="https://tenor.com/3h23.gif" />
  </h1>
 
 
