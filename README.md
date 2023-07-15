@@ -1,4 +1,4 @@
-<div height="300">
+<div>
  <h1 align="left" ><span>Hi there, I'm Vadim</span> </h1>
  <img align="right" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxenFpcG4xdWYweGNwdjQwd211cGRnMnViZWUycDV3cHRma2FscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" />
 </div>
