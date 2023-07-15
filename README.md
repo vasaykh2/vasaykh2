@@ -1,5 +1,5 @@
 
- <h1 align="left" height="100"><span>Hi there, I'm Vadim</span> <img align="right" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxenFpcG4xdWYweGNwdjQwd211cGRnMnViZWUycDV3cHRma2FscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" /></h1>
+ <h1 align="left" margin-top="100"><span>Hi there, I'm Vadim</span> <img align="right" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxenFpcG4xdWYweGNwdjQwd211cGRnMnViZWUycDV3cHRma2FscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" /></h1>
 
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/></h1>-->
 <h3 align="center">"Web Developer" student from Russia </h3>
