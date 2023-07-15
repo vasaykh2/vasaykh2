@@ -1,5 +1,5 @@
  <h1 align="left" >Hi there, I'm Vadim 
-  <img align="right" height="48" src="https://media.tenor.com/BYWKHPuT7YcAAAAi/discord-discordgifemoji.gif" />
+  <img align="right" height="48" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
  </h1>
 
 
