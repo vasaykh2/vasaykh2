@@ -1,5 +1,5 @@
 <div>
- <h1  display="flex">Hi there, I'm Vadim <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/></h1>
+ <h1  display="flex" flex-direction="column">Hi there, I'm Vadim <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/></h1>
  
 </div>
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
