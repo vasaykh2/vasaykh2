@@ -1,5 +1,5 @@
  <h1 align="left" >Hi there, I'm Vadim 
-  <img align="right"  src="https://tenor.com/3h23.gif" />
+  <img align="right"  src="https://media.tenor.com/BYWKHPuT7YcAAAAi/discord-discordgifemoji.gif" />
  </h1>
 
 
