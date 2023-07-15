@@ -7,6 +7,10 @@ I participate in a city humanitarian seminar, have a small dog and a large aquar
  
 <vasaykh@yandex.ru> |   [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
 
+...
+I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can improve or participate in the creation of new digital projects in areas that unite both sides.
+...
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
