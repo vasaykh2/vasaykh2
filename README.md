@@ -1,6 +1,6 @@
-<div>
- <h1  display="flex" justify-content="space-between">Hi there, I'm Vadim <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/></h1>
- 
+<div display="flex" justify-content="space-between">
+ <h1  >Hi there, I'm Vadim </h1>
+ <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/>
 </div>
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
 <h3 align="center">"Web Developer" student from Russia </h3>
