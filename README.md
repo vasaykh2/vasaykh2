@@ -1,5 +1,5 @@
 <div align="center" >
- <h1 align="left"><span>Hi there, I'm Vadim</span> <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" /></h1>
+ <h1 align="left"><span>Hi there, I'm Vadim</span> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXUxenFpcG4xdWYweGNwdjQwd211cGRnMnViZWUycDV3cHRma2FscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif" /></h1>
  
 </div>
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/></h1>-->
