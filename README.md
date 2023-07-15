@@ -1,4 +1,4 @@
-<div align="justify" >
+<div align="center" >
  <h1><span>Hi there, I'm Vadim</span> <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="32"/></h1>
  
 </div>
