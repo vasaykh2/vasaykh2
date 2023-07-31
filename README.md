@@ -41,9 +41,9 @@ I participate in a city humanitarian seminar, have a small dog and a large aquar
 [![codewars](https://www.codewars.com/users/vasaykh/badges/micro)](https://www.codewars.com/users/vasaykh)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasaykh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasaykh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasaykh2)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasaykh2)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vasaykh2)
 
