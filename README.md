@@ -11,7 +11,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/></h1>
 -->
 <h3 align="center">"Junior web developer". Student at Yandex.Practicum+. Russia </h3>
-<p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can improve or participate in the creation of new digital projects in areas that unite both sides.</p>
+<p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can participate in the creation of digital projects in areas that unite both sides.</p>
 <p>
 I participate in a city humanitarian seminar, have a small dog and a large aquarium with fish and plants, I like to play chess (not with them yet).</p>
  
