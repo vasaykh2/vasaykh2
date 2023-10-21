@@ -1,6 +1,4 @@
- <h1 align="left" >Hi there, I'm Vadim 
-  <img align="right" height="250" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
- </h1>
+ <h1 align="left" >Hi there, I'm Vadim </h1>
 
    [![Watch the gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
 
