@@ -7,8 +7,9 @@
  
 
 <!--
+<img align="right" height="250" src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif" />
 <img align="right" height="132" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/>
 -->
 <h3 align="center">"Junior web developer". Student at Yandex.Practicum+. Russia </h3>
 <p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can participate in the creation of digital projects in areas that unite both sides.</p>
