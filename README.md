@@ -1,15 +1,15 @@
- <h1 align="left" >Hi there, I'm Vadim </h1>
+ # Hi there, I'm Vadim 
 
-#                       .  [![Watch the gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
+[![Watch the gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
 
  
 
 <!--
 <img align="right" height="250" src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif" />
-<img align="right" height="132" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
+<img align="center" height="132" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/>
 -->
-<h3 align="center">"Junior web developer". Student at Yandex.Practicum+. Russia </h3>
+<h3 align="left">"Junior web developer". Student at Yandex.Practicum+. Russia </h3>
 <p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can participate in the creation of digital projects in areas that unite both sides.</p>
 <p>
 I participate in a city humanitarian seminar, have a small dog and a large aquarium with fish and plants, I like to play chess (not with them yet).</p>
