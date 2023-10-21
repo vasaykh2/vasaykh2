@@ -1,5 +1,5 @@
  <h1 align="left" >Hi there, I'm Vadim 
-  <img align="right" height="250" src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif" />
+  <img align="right" height="250" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
  </h1>
 
 
