@@ -2,7 +2,7 @@
   <img align="right" height="250" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
  </h1>
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif)](https://youtu.be/vt5fpE0bzSY)
 
  
 
