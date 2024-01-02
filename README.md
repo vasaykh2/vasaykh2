@@ -1,4 +1,4 @@
- # Hi there, I'm Vadim 
+ # Привет, я - Вадим
 
 [![Watch the gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
 
@@ -9,10 +9,10 @@
 <img align="center" height="132" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" />
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="1000"/>
 -->
-<h3 align="left">"Junior web developer". Student at Yandex.Practicum+. Russia </h3>
-<p>I am currently working as an engineer in a large company. I have a technical and humanitarian education, so I can participate in the creation of digital projects in areas that unite both sides.</p>
+<h3 align="left">"Junior web developer". Закончил обучение в Яндекс.Практикуме+. Россия </h3>
+<p>В настоящее время я работаю инженером в крупной компании. У меня техническое и гуманитарное образование, поэтому мне интересно создавать цифровые проекты из обеих этих областей.</p>
 <p>
-I participate in a city humanitarian seminar, have a small dog and a large aquarium with fish and plants, I like to play chess (not with them yet).</p>
+Я участвую в городском гуманитарном семинаре, у меня есть маленькая собачка и большой аквариум с водными обитателями, я люблю играть в шахматы (пока не с ними).</p>
  
 <vasaykh@yandex.ru> |   [@Vadim_An_S](http://t-do.ru/@Vadim_An_S "Telegram channel")
 
