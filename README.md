@@ -1,5 +1,5 @@
 ### Привет, я Вадим! 👋
-** **
+
 [![Watch the gif](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)](https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif)
 ** **
 
