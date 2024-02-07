@@ -53,13 +53,15 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 📚 **Дополнительная информация:**
-- Постоянно обучаюсь новым технологиям и участвую в хакатонах.
+- Постоянно обучаюсь новым технологиям, участвую в хакатонах и решаю задачи на CodeWars.
+[![codewars](https://www.codewars.com/users/vasaykh/badges/micro)](https://www.codewars.com/users/vasaykh)
+ 
 
 🚀 **Готов к новым проектам и вызовам в веб-разработке!**
 
 Спасибо за внимание. Буду рад новым знакомствам и возможностям! 🌟
 
-[![codewars](https://www.codewars.com/users/vasaykh/badges/micro)](https://www.codewars.com/users/vasaykh)
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasaykh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
