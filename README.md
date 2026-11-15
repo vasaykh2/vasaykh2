@@ -22,7 +22,7 @@
 - Есть.
 
 📬 **Свяжитесь со мной:**
-- Email: [vasaykh@yandex.ru](mailto:vasaykh@yandex.ru)
+- Email: [https://vasaykh2@users.noreply.github.com/](mailto:(https://vasaykh2@users.noreply.github.com/))
 - Telegram: [@Vadim_An_S](https://t.me/Vadim_An_S)
 
 💼 **Стек технологий:**
